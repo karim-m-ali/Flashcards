@@ -42,3 +42,5 @@ It is a mobile flashcard learning app designed to make studying easier, faster, 
 - **Practice Mode** – Swipe through cards and rate difficulty
 - **New Deck** – Add custom decks
 - **New Card** – Add cards to decks with question/answer
+
+![Screens prototype](docs/screens-prototype.jpg)
